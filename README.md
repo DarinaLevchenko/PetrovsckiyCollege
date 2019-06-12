@@ -1,1 +1,1 @@
-# PetrovsckiyCollege
+#petrocollege.github.io
